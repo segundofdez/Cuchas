@@ -2,7 +2,7 @@
  * CUCHAS V 1.0
  * -------------------------------------------------------------
  * 
- * visualizacion grafica a partir de interactuacion
+ * visualizacion grafica a partir de interactuacion con cuchas
  * Para generar pdf pulsar B (para inicializar) y E (para salir)
  * ------------------------------------------------------------- 
  * + info
