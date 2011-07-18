@@ -6,8 +6,8 @@
  * Para generar pdf pulsar B (para inicializar) y E (para salir)
  * ------------------------------------------------------------- 
  * + info
- * http://www.vidagrafica.com
- * 2008-2011 Segundo Fdez | info@vidagrafica.com
+ * http://www.sond3.com | http://www.vidagrafica.com
+ * 2008-2011 Segundo Fdez | info@sond3.com
  */
 
 import pitaru.sonia_v2_9.*; //importa la libreria sonia para el sonido
