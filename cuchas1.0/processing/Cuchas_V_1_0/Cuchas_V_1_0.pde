@@ -3,11 +3,18 @@
  * -------------------------------------------------------------
  * 
  * visualizacion grafica a partir de interactuacion con cuchas
- * Para generar pdf pulsar B (para inicializar) y E (para salir)
- * ------------------------------------------------------------- 
+ * Para generar pdf pulsar A (para inicializar) y Z (para salir)
+ * ------------------------------------------------------ 
  * + info
  * http://www.sond3.com | http://www.vidagrafica.com
- * 2008-2011 Segundo Fdez | info@sond3.com
+ * 2008-2011 (c) Segundo Fdez 
+ * info@sond3.com
+ * ------------------------------------------------------
+ Este obra esta bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
+ http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+ No se permite un uso comercial de la obra original ni de las posibles obras derivadas, 
+ la distribucion de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
  */
 
 import pitaru.sonia_v2_9.*; //importa la libreria sonia para el sonido
@@ -197,11 +204,11 @@ void escribe(){
 
 // GRABAR EN PDF CON TECLADO
 void keyPressed() {
-  if (key == 'B' || key == 'b') { // When 'B' or 'b' is pressed,
+  if (key == 'A' || key == 'a') { // When 'A' or 'a' is pressed,
     beginRecord(PDF, "cuchas.pdf"); // start recording to the PDF
     background(0); // Set a black background
   } 
-  else if (key == 'E' || key == 'e') { // When 'E' or 'e' is pressed,
+  else if (key == 'Z' || key == 'z') { // When 'Z' or 'z' is pressed,
     endRecord(); // stop recording the PDF and
     exit(); // quit the program
   }

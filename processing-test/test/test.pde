@@ -2,10 +2,17 @@
  * CUCHAS TEST
  * -------------------------------------------------------------
  * CHECK CUCHAS INTERFACE
- * ------------------------------------------------------------- 
+ * ------------------------------------------------------ 
  * + info
  * http://www.sond3.com | http://www.vidagrafica.com
- * 2008-2011 Segundo Fdez | info@sond3.com
+ * 2008-2011 (c) Segundo Fdez 
+ * info@sond3.com
+ * ------------------------------------------------------
+ Este obra esta bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
+ http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+ No se permite un uso comercial de la obra original ni de las posibles obras derivadas, 
+ la distribucion de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
  */
 
 void setup() {
