@@ -6,9 +6,9 @@
  * Para generar pdf pulsar A (para inicializar) y Z (para salir)
  * ------------------------------------------------------ 
  * + info
- * http://www.sond3.com | http://www.vidagrafica.com
+ * http://www.vidagrafica.com
  * 2008-2011 (c) Segundo Fdez 
- * info@sond3.com
+ * info@vidagrafica.com
  * ------------------------------------------------------
  Este obra esta bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
  http://creativecommons.org/licenses/by-nc-sa/3.0/

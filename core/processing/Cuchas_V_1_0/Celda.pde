@@ -1,3 +1,22 @@
+/*
+ * CUCHAS V 1.0
+ * -------------------------------------------------------------
+ * 
+ * visualizacion grafica a partir de interactuacion con cuchas
+ * Para generar pdf pulsar A (para inicializar) y Z (para salir)
+ * ------------------------------------------------------ 
+ * + info
+ * http://www.vidagrafica.com
+ * 2008-2011 (c) Segundo Fdez 
+ * info@vidagrafica.com
+ * ------------------------------------------------------
+ Este obra esta bajo una licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
+ http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+ No se permite un uso comercial de la obra original ni de las posibles obras derivadas, 
+ la distribucion de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
+ */
+
 class Celda{
   float x;
   float y;
