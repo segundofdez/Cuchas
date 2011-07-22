@@ -105,18 +105,14 @@ void draw() {
   }
 
   if(valBoton1=='H') {  //si el valor del boton es H ellipse, sino, nada
-  Samples[1].repeatNum(1);   
+    Samples[1].repeatNum(1);   
     noStroke();
     fill(PotR,PotG,PotB,10);
-
     ellipse(valFactDespX,valFactDespY,50,50); //se desplaza en relacion a la posicion
   }
   if(valBoton2 =='H'){
-
     Samples[2].play(); 
-
     noStroke();
-
     fill(PotR,PotG,PotB,10);
     ellipse(valFactDespX,valFactDespY,150,150); //se desplaza en relacion a la posicion
     escribe();

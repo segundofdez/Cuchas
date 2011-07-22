@@ -62,15 +62,12 @@ class Celda{
         float n =norm(xCurve,0.0,x);
         float yCurve = pow(n,0.4);
         yCurve*=y;
-
         stroke(r,g,b,20);
-
         point(xCurve,yCurve);
       }
 
       int radio=5*dia;
       for (int deg=0;deg<360;deg+=30){
-
         float angle=radians(deg);
         float xcir=x+(cos(angle)*radio);
         float ycir=y+(sin(angle)*radio);
