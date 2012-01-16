@@ -19,6 +19,7 @@
  la distribucion de las cuales se debe hacer con una licencia igual a la que regula la obra original. 
  */
 
+
 // POTENCIOMETROS
 int pinPotX=1;  // pines de entrada analogica potenciomentro control eje X
 int pinPotY=0;  // pines de entrada analogica potenciomentro control eje Y
